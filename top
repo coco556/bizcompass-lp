@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ライフコンパス - あなたの人生をナビゲート</title>
+    <link rel="stylesheet" href="style-lifecompass.css">
+</head>
+<body>
+    <header class="hero">
+        <h1>ライフコンパス</h1>
+        <p>あなたの人生とビジネスを成功へ導く</p>
+        <a href="#contact" class="cta-button">無料相談はこちら</a>
+    </header>
+    
+    <section class="about">
+        <h2>ライフコンパスとは？</h2>
+        <p>ライフコンパスは、起業家や個人事業主が成功するためのナビゲーションを提供するプラットフォームです。ビジネスサポート、コーチング、戦略アドバイスなど、あなたの目標達成をサポートします。</p>
+    </section>
+    
+    <section class="features">
+        <h2>私たちのサービス</h2>
+        <div class="feature">
+            <h3>ビジネスコーチング</h3>
+            <p>あなたのビジネスを成長させるためのマンツーマンコーチング。</p>
+        </div>
+        <div class="feature">
+            <h3>戦略アドバイス</h3>
+            <p>成功するための具体的な戦略とアクションプランを提供。</p>
+        </div>
+        <div class="feature">
+            <h3>コミュニティサポート</h3>
+            <p>同じ志を持つ仲間と繋がり、情報を共有できる環境。</p>
+        </div>
+    </section>
+    
+    <section class="cta">
+        <h2>今すぐ始めよう</h2>
+        <p>ライフコンパスに参加して、あなたの夢を実現しましょう。</p>
+        <a href="#contact" class="cta-button">無料相談はこちら</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 ライフコンパス | すべての権利を保有</p>
+    </footer>
+</body>
+</html>
