@@ -1,0 +1,38 @@
+/* style-branding.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+    color: #333;
+    text-align: center;
+    margin: 0;
+}
+
+.hero-gradient {
+    padding: 50px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+}
+
+.hero-gradient h1 {
+    font-size: 2.5em;
+}
+
+.hero-gradient p {
+    font-size: 1.2em;
+    color: #eee;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background: #ff4081;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.cta-button:hover {
+    background: #e60074;
+}
